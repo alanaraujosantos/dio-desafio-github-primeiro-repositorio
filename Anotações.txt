@@ -1,0 +1,2 @@
+Gerado a criação de repositório para o desafio Git/Github atraés da console
+Clonado o diretório para a máquiina local
